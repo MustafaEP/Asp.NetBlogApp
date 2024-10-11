@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\porta\\source\\repos\\Blank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\porta\\source\\repos\\Blank\\DataAccess\\Migrations\\20241011064308_mig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccess\\Migrations\\20241011064308_mig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F38C0E-68ED-4637-B110-1707B6BBFC6B}|Entities\\Entities.csproj|c:\\users\\porta\\source\\repos\\blank\\entities\\concrete\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F38C0E-68ED-4637-B110-1707B6BBFC6B}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F38C0E-68ED-4637-B110-1707B6BBFC6B}|Entities\\Entities.csproj|c:\\users\\porta\\source\\repos\\blank\\entities\\concrete\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F38C0E-68ED-4637-B110-1707B6BBFC6B}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F38C0E-68ED-4637-B110-1707B6BBFC6B}|Entities\\Entities.csproj|c:\\users\\porta\\source\\repos\\blank\\entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F38C0E-68ED-4637-B110-1707B6BBFC6B}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241011064308_mig3.cs",
+              "DocumentMoniker": "C:\\Users\\porta\\source\\repos\\Blank\\DataAccess\\Migrations\\20241011064308_mig3.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20241011064308_mig3.cs",
+              "ToolTip": "C:\\Users\\porta\\source\\repos\\Blank\\DataAccess\\Migrations\\20241011064308_mig3.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20241011064308_mig3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:43:09.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\porta\\source\\repos\\Blank\\Entities\\Concrete\\Comment.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Comment.cs",
+              "ToolTip": "C:\\Users\\porta\\source\\repos\\Blank\\Entities\\Concrete\\Comment.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:41:45.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\porta\\source\\repos\\Blank\\Entities\\Concrete\\Blog.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Blog.cs",
+              "ToolTip": "C:\\Users\\porta\\source\\repos\\Blank\\Entities\\Concrete\\Blog.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:33:51.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\porta\\source\\repos\\Blank\\Entities\\Concrete\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Category.cs",
+              "ToolTip": "C:\\Users\\porta\\source\\repos\\Blank\\Entities\\Concrete\\Category.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:33:47.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
