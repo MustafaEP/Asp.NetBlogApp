@@ -1,0 +1,11 @@
+﻿@model IEnumerable<WebUI.Models.CommentUserViewModel>
+
+@{
+    Layout = null;
+}
+
+@foreach(var item in Model)
+{
+    <p>@item.Id</p>
+    <p>@item.UserName</p>
+}

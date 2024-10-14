@@ -5,6 +5,278 @@
       "PackagePath": "staticwebassets\\WebUI.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\about.html",
+      "PackagePath": "staticwebassets\\Thema\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\blog1.html",
+      "PackagePath": "staticwebassets\\Thema\\blog1.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\blog2.html",
+      "PackagePath": "staticwebassets\\Thema\\blog2.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\blog3.html",
+      "PackagePath": "staticwebassets\\Thema\\blog3.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\contact.html",
+      "PackagePath": "staticwebassets\\Thema\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Thema\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\css\\contact.css",
+      "PackagePath": "staticwebassets\\Thema\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\Thema\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\css\\jquery.desoslide.css",
+      "PackagePath": "staticwebassets\\Thema\\css\\jquery.desoslide.css"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\css\\single.css",
+      "PackagePath": "staticwebassets\\Thema\\css\\single.css"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\css\\style.css",
+      "PackagePath": "staticwebassets\\Thema\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Thema\\images\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\b4.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\b5.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\banner4.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\banner5.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\banner5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\left.png",
+      "PackagePath": "staticwebassets\\Thema\\images\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\m1.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\m1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\m2.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\m2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\m3.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\m3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\m4.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\m4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\right.png",
+      "PackagePath": "staticwebassets\\Thema\\images\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\t1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\t2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\t3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\t4.jpg",
+      "PackagePath": "staticwebassets\\Thema\\images\\t4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\images\\top_up.png",
+      "PackagePath": "staticwebassets\\Thema\\images\\top_up.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\index.html",
+      "PackagePath": "staticwebassets\\Thema\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Thema\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\js\\easing.js",
+      "PackagePath": "staticwebassets\\Thema\\js\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\js\\jquery-2.2.3.min.js",
+      "PackagePath": "staticwebassets\\Thema\\js\\jquery-2.2.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\js\\jquery.desoslide.js",
+      "PackagePath": "staticwebassets\\Thema\\js\\jquery.desoslide.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\js\\jquery.flexisel.js",
+      "PackagePath": "staticwebassets\\Thema\\js\\jquery.flexisel.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\js\\modernizr.custom.min.js",
+      "PackagePath": "staticwebassets\\Thema\\js\\modernizr.custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\Thema\\js\\move-top.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\login.html",
+      "PackagePath": "staticwebassets\\Thema\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\register.html",
+      "PackagePath": "staticwebassets\\Thema\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\single.html",
+      "PackagePath": "staticwebassets\\Thema\\single.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\w3layouts-license.txt",
+      "PackagePath": "staticwebassets\\Thema\\w3layouts-license.txt"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Thema\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Thema\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Thema\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Thema\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Thema\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Thema\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Thema\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Thema\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Thema\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Thema\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Thema\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Thema\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Thema\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Thema\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\Thema\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Thema\\webfonts\\fa-solid-900.woff2"
+    },
+    {
       "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -243,6 +515,1026 @@
     {
       "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main.zip",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main.zip"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\.editorconfig",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\.editorconfig"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\.gitignore",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\.jshintrc",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\LICENSE",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\README.md",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\gulpfile.js",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\netlify.toml",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\netlify.toml"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\package.json",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\404.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\about-me.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\about-me.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\about-us.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\about-us.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\advertise.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\advertise.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\author-single.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\author-single.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\author.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\author.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\contact.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\about-me.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\about-me.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\about-us-1.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\about-us-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\about-us-2.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\about-us-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\author.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\backgrounds\\banner-bg.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\backgrounds\\banner-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\backgrounds\\footer-bg.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\backgrounds\\footer-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\backgrounds\\header-bg.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\backgrounds\\header-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\backgrounds\\wave-bg.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\backgrounds\\wave-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\books\\01.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\books\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\books\\02.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\books\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\books\\03.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\books\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\books\\04.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\books\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\faq\\icon-01.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\faq\\icon-01.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\faq\\icon-02.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\faq\\icon-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\faq\\icon-03.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\faq\\icon-03.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\instagram\\1.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\instagram\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\instagram\\2.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\instagram\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\instagram\\3.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\instagram\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\instagram\\4.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\instagram\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\john-doe.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\john-doe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\kate-stone.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\kate-stone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\logo.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\logos\\logo-1.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\logos\\logo-1.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\logos\\logo-2.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\logos\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\logos\\logo-3.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\logos\\logo-3.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\logos\\logo-4.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\logos\\logo-4.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\logos\\logo-5.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\logos\\logo-5.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\logos\\logo-6.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\logos\\logo-6.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\logos\\logo-7.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\logos\\logo-7.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\logos\\logo-8.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\logos\\logo-8.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\logos\\logo-9.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\logos\\logo-9.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\mission.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\mission.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\no-search-found.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\no-search-found.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\post\\arrow.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\post\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\post\\post-1.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\post\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\post\\post-10.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\post\\post-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\post\\post-2.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\post\\post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\post\\post-3.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\post\\post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\post\\post-4.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\post\\post-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\post\\post-5.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\post\\post-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\post\\post-6.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\post\\post-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\post\\post-7.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\post\\post-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\post\\post-8.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\post\\post-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\post\\post-9.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\post\\post-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\post\\user-01.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\post\\user-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\post\\user-02.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\post\\user-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\promotion.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\promotion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\shop\\01.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\shop\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\shop\\02.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\shop\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\shop\\03.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\shop\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\shop\\04.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\shop\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\shop\\05.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\shop\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\shop\\06.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\shop\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\shop\\07.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\shop\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\shop\\08.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\shop\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\shop\\09.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\shop\\09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\shop\\10.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\shop\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\shop\\11.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\shop\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\shop\\12.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\shop\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\xvertise-02.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\xvertise-02.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\xvertise.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\xvertise.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\images\\youtube.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\images\\youtube.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\index-full-left.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\index-full-left.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\index-full-right.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\index-full-right.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\index-full.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\index-full.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\index-grid-left.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\index-grid-left.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\index-grid-right.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\index-grid-right.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\index-grid.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\index-grid.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\index-list-left.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\index-list-left.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\index-list-right.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\index-list-right.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\index-list.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\index-list.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\index.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\js\\script.js",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\partials\\blocks\\banner.htm",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\partials\\blocks\\banner.htm"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\partials\\blocks\\featured-post.htm",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\partials\\blocks\\featured-post.htm"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\partials\\blocks\\page-header.htm",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\partials\\blocks\\page-header.htm"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\partials\\blocks\\post-full.htm",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\partials\\blocks\\post-full.htm"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\partials\\blocks\\post-grid.htm",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\partials\\blocks\\post-grid.htm"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\partials\\blocks\\post-list.htm",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\partials\\blocks\\post-list.htm"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\partials\\blocks\\sidebar.htm",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\partials\\blocks\\sidebar.htm"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\partials\\footer.htm",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\partials\\footer.htm"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\partials\\header.htm",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\partials\\header.htm"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\plugins\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\plugins\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\plugins\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\plugins\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\plugins\\instafeed\\instafeed.min.js",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\plugins\\instafeed\\instafeed.min.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\plugins\\jQuery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\plugins\\jQuery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\plugins\\search\\fuse.min.js",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\plugins\\search\\fuse.min.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\plugins\\search\\mark.js",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\plugins\\search\\mark.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\plugins\\search\\search.js",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\plugins\\search\\search.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\plugins\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\plugins\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\plugins\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\plugins\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\plugins\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\plugins\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\plugins\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\plugins\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\plugins\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\plugins\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\plugins\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\plugins\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\plugins\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\plugins\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\plugins\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\plugins\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\plugins\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\plugins\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\plugins\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\plugins\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\plugins\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\plugins\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\plugins\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\plugins\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\post-details.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\post-details.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\post-elements.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\post-elements.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\privacy-policy.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\privacy-policy.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\scss\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\scss\\templates\\_main.scss",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\scss\\templates\\_main.scss"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\scss\\templates\\_navigation.scss",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\scss\\templates\\_navigation.scss"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\search-not-found.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\search-not-found.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\search-result.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\search-result.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\shop.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\shop.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\tags.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\tags.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\source\\terms-conditions.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\source\\terms-conditions.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\404.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\about-me.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\about-me.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\about-us.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\about-us.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\advertise.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\advertise.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\author-single.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\author-single.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\author.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\author.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\contact.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\css\\style.css",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\about-me.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\about-me.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\about-us-1.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\about-us-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\about-us-2.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\about-us-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\author.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\backgrounds\\banner-bg.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\backgrounds\\banner-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\backgrounds\\footer-bg.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\backgrounds\\footer-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\backgrounds\\header-bg.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\backgrounds\\header-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\backgrounds\\wave-bg.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\backgrounds\\wave-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\books\\01.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\books\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\books\\02.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\books\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\books\\03.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\books\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\books\\04.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\books\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\faq\\icon-01.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\faq\\icon-01.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\faq\\icon-02.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\faq\\icon-02.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\faq\\icon-03.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\faq\\icon-03.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\instagram\\1.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\instagram\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\instagram\\2.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\instagram\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\instagram\\3.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\instagram\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\instagram\\4.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\instagram\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\john-doe.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\john-doe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\kate-stone.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\kate-stone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\logo.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\logos\\logo-1.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\logos\\logo-1.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\logos\\logo-2.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\logos\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\logos\\logo-3.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\logos\\logo-3.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\logos\\logo-4.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\logos\\logo-4.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\logos\\logo-5.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\logos\\logo-5.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\logos\\logo-6.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\logos\\logo-6.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\logos\\logo-7.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\logos\\logo-7.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\logos\\logo-8.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\logos\\logo-8.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\logos\\logo-9.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\logos\\logo-9.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\mission.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\mission.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\no-search-found.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\no-search-found.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\post\\arrow.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\post\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\post\\post-1.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\post\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\post\\post-10.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\post\\post-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\post\\post-2.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\post\\post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\post\\post-3.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\post\\post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\post\\post-4.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\post\\post-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\post\\post-5.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\post\\post-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\post\\post-6.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\post\\post-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\post\\post-7.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\post\\post-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\post\\post-8.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\post\\post-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\post\\post-9.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\post\\post-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\post\\user-01.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\post\\user-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\post\\user-02.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\post\\user-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\promotion.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\promotion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\shop\\01.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\shop\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\shop\\02.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\shop\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\shop\\03.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\shop\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\shop\\04.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\shop\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\shop\\05.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\shop\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\shop\\06.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\shop\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\shop\\07.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\shop\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\shop\\08.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\shop\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\shop\\09.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\shop\\09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\shop\\10.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\shop\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\shop\\11.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\shop\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\shop\\12.jpg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\shop\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\xvertise-02.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\xvertise-02.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\xvertise.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\xvertise.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\images\\youtube.png",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\images\\youtube.png"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\index-full-left.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\index-full-left.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\index-full-right.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\index-full-right.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\index-full.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\index-full.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\index-grid-left.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\index-grid-left.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\index-grid-right.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\index-grid-right.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\index-grid.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\index-grid.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\index-list-left.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\index-list-left.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\index-list-right.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\index-list-right.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\index-list.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\index-list.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\index.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\js\\script.js",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\plugins\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\plugins\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\plugins\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\plugins\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\plugins\\instafeed\\instafeed.min.js",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\plugins\\instafeed\\instafeed.min.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\plugins\\jQuery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\plugins\\jQuery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\plugins\\search\\fuse.min.js",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\plugins\\search\\fuse.min.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\plugins\\search\\mark.js",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\plugins\\search\\mark.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\plugins\\search\\search.js",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\plugins\\search\\search.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\plugins\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\plugins\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\plugins\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\plugins\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\plugins\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\plugins\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\plugins\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\plugins\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\plugins\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\plugins\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\plugins\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\plugins\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\plugins\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\plugins\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\plugins\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\plugins\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\plugins\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\plugins\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\plugins\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\plugins\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\plugins\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\plugins\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\plugins\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\plugins\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\post-details.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\post-details.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\post-elements.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\post-elements.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\privacy-policy.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\privacy-policy.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\search-not-found.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\search-not-found.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\search-result.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\search-result.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\shop.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\shop.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\tags.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\tags.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\reader-bootstrap-main\\theme\\terms-conditions.html",
+      "PackagePath": "staticwebassets\\reader-bootstrap-main\\theme\\terms-conditions.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\weberror\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\weberror\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\weberror\\css\\style.css",
+      "PackagePath": "staticwebassets\\weberror\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\weberror\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\weberror\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\weberror\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\weberror\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\weberror\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\weberror\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\weberror\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\weberror\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\weberror\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\weberror\\index.html",
+      "PackagePath": "staticwebassets\\weberror\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\wwwroot\\weberror\\w3layouts-license.txt",
+      "PackagePath": "staticwebassets\\weberror\\w3layouts-license.txt"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Entities.Concrete.Comment>
+
+<div class="comment-top">
+    <h4>Comments</h4>
+    @if(!Model.Any())
+    {
+        <p>
+            Blog have not a comment. You may write first comment
+        </p>
+    }
+    else
+    {
+        @foreach (var item in Model)
+        {
+            <div class="media">
+                <img src="~/thema/images/t1.jpg" alt="" class="img-fluid" />
+                <div class="media-body">
+                    <h5 class="mt-0">@item.CommentUserName</h5>
+                    <p>
+                        @item.CommentConnent
+                    </p>
+                </div>
+            </div>
+        }
+    }
+</div>

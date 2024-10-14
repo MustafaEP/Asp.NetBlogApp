@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\porta\\source\\repos\\Blank\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CFD2070-23B0-4BE3-B141-7361B55128A1}|WebUI\\WebUI.csproj|c:\\users\\porta\\source\\repos\\blank\\webui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CFD2070-23B0-4BE3-B141-7361B55128A1}|WebUI\\WebUI.csproj|solutionrelative:webui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CFD2070-23B0-4BE3-B141-7361B55128A1}|WebUI\\WebUI.csproj|c:\\users\\porta\\source\\repos\\blank\\webui\\views\\errorpage\\error1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CFD2070-23B0-4BE3-B141-7361B55128A1}|WebUI\\WebUI.csproj|solutionrelative:webui\\views\\errorpage\\error1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD2070-23B0-4BE3-B141-7361B55128A1}|WebUI\\WebUI.csproj|c:\\users\\porta\\source\\repos\\blank\\webui\\controllers\\errorpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD2070-23B0-4BE3-B141-7361B55128A1}|WebUI\\WebUI.csproj|solutionrelative:webui\\controllers\\errorpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFD2070-23B0-4BE3-B141-7361B55128A1}|WebUI\\WebUI.csproj|c:\\users\\porta\\source\\repos\\blank\\webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFD2070-23B0-4BE3-B141-7361B55128A1}|WebUI\\WebUI.csproj|solutionrelative:webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "WebUI\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "WebUI\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T08:15:59.461Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error1.cshtml",
+              "DocumentMoniker": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\Views\\ErrorPage\\Error1.cshtml",
+              "RelativeDocumentMoniker": "WebUI\\Views\\ErrorPage\\Error1.cshtml",
+              "ToolTip": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\Views\\ErrorPage\\Error1.cshtml",
+              "RelativeToolTip": "WebUI\\Views\\ErrorPage\\Error1.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:23:22.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorPageController.cs",
+              "DocumentMoniker": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\Controllers\\ErrorPageController.cs",
+              "RelativeDocumentMoniker": "WebUI\\Controllers\\ErrorPageController.cs",
+              "ToolTip": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\Controllers\\ErrorPageController.cs",
+              "RelativeToolTip": "WebUI\\Controllers\\ErrorPageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:22:33.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\porta\\source\\repos\\Blank\\WebUI\\Program.cs",
+              "RelativeToolTip": "WebUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:18:43.04Z",
+              "EditorCaption": ""
             }
           ]
         }
