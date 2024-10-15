@@ -11,11 +11,11 @@ namespace Entities.Concrete
     {
         [Key]
         public int BlogId { get; set; }
-        public string BlogTittle { get; set; }
-        public string BlogContent { get; set; }
-        public string BlogThumbneilImage { get; set; }
-        public string BlogImage { get; set; }
-        public DateTime BlogCreateDate { get; set; }
+        public string? BlogTittle { get; set; }
+        public string? BlogContent { get; set; }
+        public string? BlogThumbneilImage { get; set; }
+        public string? BlogImage { get; set; }
+        public DateTime? BlogCreateDate { get; set; }
         public bool BlogStatus { get; set; }
         public int CategoryId { get; set; }
         public Category Category { get; set; }
