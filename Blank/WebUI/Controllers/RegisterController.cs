@@ -30,11 +30,11 @@ namespace WebUI.Controllers
         {
             WriterValidator wr = new WriterValidator();
             ValidationResult result = wr.Validate(registerViewModel.Writer);
-            if(result.IsValid)
+            if (result.IsValid)
             {
                 registerViewModel.Writer.WriterStatus = true;
                 registerViewModel.Writer.WriterAbout = "Try Test";
-                _writerManager.WriterAdd(registerViewModel.Writer); 
+                _writerManager.TAdd(registerViewModel.Writer);
                 return RedirectToAction("Index", "Blog");
             }
             else
@@ -45,9 +45,9 @@ namespace WebUI.Controllers
                 }
                 registerViewModel.Cities = _cityManager.GetList();
             }
-            
-            
-            
+
+
+
             return View(registerViewModel);
 
         }

@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "BlogListExcel";
+    Layout = "~/Areas/Admin/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="row wrapper border-bottom white-bg page-heading mb-2">
+    <div class="col-lg-10">
+        <h2>Widget</h2>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">
+                <a href="/Admin/Index">Admin</a>
+            </li>
+            <li class="breadcrumb-item">
+                <a>Blog</a>
+            </li>
+            <li class="breadcrumb-item active">
+                <strong>BlogListExcel</strong>
+            </li>
+        </ol>
+    </div>
+    <div class="col-lg-2">
+    </div>
+</div>
+<a href="/Admin/Blog/ExportDynamicExcelBlogList" class="btn btn-primary">
+    <i class="fa fa-download"></i>
+    Download Blog List with Excel
+</a>
+
+@section scripts {}
